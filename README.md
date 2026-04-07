@@ -1,19 +1,17 @@
-# Mental Health in Tech Dashboard
 
-An analysis of mental health treatment-seeking behavior in the tech 
-industry using the OSMI 2016 Mental Health in Tech Survey.
+# Mental Health in the Tech Workplace
+
+## Project Overview
+Analysis of mental health treatment trends among tech workers using the OSMI survey dataset (1,259 respondents).
+
+## Key Findings
+- Nearly 50/50 split between those who did and didn't seek treatment
+- Larger companies show varied treatment-seeking behavior
+- US dominates survey respondents globally
+
+## Dashboard
+View the live dashboard here: https://public.tableau.com/app/profile/maria.jose.quintana.rivera/viz/MentalHealthintheTechWorkplace--DataAnalysis/Dashboard1
 
 ## Tools Used
 - Tableau Public
-- Excel / CSV data
-
-## Dashboard
-[View the live dashboard here](paste your Tableau Public link)
-
-## Key Questions Explored
-- Do tech workers seek treatment for mental health conditions?
-- Does company size affect comfort discussing mental health at work?
-- Which regions had the highest survey participation?
-
-## Data Source
-OSMI Mental Health in Tech Survey via Kaggle
+- Microsoft Excel
